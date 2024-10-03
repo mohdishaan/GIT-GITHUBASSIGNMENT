@@ -1,0 +1,15 @@
+Ques4 : Briefly explain what Github is and how it facilitates collaberation and version control and also name some alternatives to Github.
+
+Sol: 
+GitHub is a web-based platform built on top of Git, a distributed version control system.
+It provides hosting for Git repositories, enabling developers to manage and collaborate on 
+projects, track changes, and control versions of their code. It is widely used for both
+open-source and private projects.
+
+Github facilitates collaberation and version control by providing a centralized location (remote repository) where all contributors can push their changes.
+By leveraging Git, GitHub tracks every change made to a project, allowing developers to:
+1. Roll back to previous versions.
+2. See who made changes and why.
+3. Merge different changes into a single version.
+Developers can create branches to work on new features or fixes without affecting the main codebase.
+GitHub provides a pull request feature, where developers can propose changes. Team members can review these changes, discuss them, and merge them into the main codebase if approved.
